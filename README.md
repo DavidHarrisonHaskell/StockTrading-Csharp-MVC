@@ -3,6 +3,9 @@
 ## Description
 This project simulates live currency trading by periodically updating the minimum and maximum values of currency pairs. These updates are reflected in real time on the frontend. The data is fetched from a SQL Server database, and changes are made every 2 seconds to simulate market activity.
 
+## Demo
+[![Image ALT TEXT HERE](https://img.youtube.com/vi/sjZ4Peg0Ul0/0.jpg)](https://youtube.com/watch?v=sjZ4Peg0Ul0)
+
 ### Key Features
 - Real-time updates of currency pairs.
 - Simulated changes in the minimum and maximum values.
